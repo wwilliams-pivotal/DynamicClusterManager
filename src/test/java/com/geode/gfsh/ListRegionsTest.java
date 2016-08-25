@@ -2,7 +2,6 @@ package com.geode.gfsh;
 
 import java.lang.reflect.InvocationTargetException;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
@@ -12,7 +11,6 @@ import org.springframework.util.Assert;
 
 import com.gemstone.gemfire.cache.Cache;
 import com.gemstone.gemfire.cache.CacheFactory;
-import com.gemstone.gemfire.management.internal.cli.result.CommandResult;
 import com.geode.gfsh.list.ListCommandsParser;
 
 public class ListRegionsTest {

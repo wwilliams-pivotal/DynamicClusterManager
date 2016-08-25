@@ -6,7 +6,6 @@ import com.gemstone.gemfire.LogWriter;
 import com.gemstone.gemfire.cache.Cache;
 import com.gemstone.gemfire.cache.CacheFactory;
 import com.gemstone.gemfire.cache.execute.FunctionContext;
-import com.gemstone.gemfire.management.internal.cli.result.CommandResult;
 import com.geode.gfsh.ExceptionHelpers;
 import com.geode.gfsh.GfshCommand;
 import com.geode.gfsh.function.GfshFunction;

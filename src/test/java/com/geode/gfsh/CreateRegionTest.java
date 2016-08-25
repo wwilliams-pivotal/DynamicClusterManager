@@ -20,7 +20,7 @@ import com.gemstone.gemfire.distributed.DistributedMember;
 import com.gemstone.gemfire.management.internal.cli.CliUtil;
 import com.geode.gfsh.function.GfshFunction;
 
-public class GfshTest {
+public class CreateRegionTest {
 
   private static GfshCommand gfshCommand;
   private static Cache cache;

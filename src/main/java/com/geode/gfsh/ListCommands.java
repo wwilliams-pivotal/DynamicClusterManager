@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.gemstone.gemfire.LogWriter;
-import com.gemstone.gemfire.internal.tools.gfsh.command.CommandResults;
 import com.gemstone.gemfire.management.internal.cli.json.GfJsonException;
 import com.gemstone.gemfire.management.internal.cli.result.CommandResult;
 import com.geode.gfsh.list.ListCommandsParser;
